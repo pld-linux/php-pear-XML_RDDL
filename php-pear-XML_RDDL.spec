@@ -26,7 +26,7 @@ from XML documents. More on RDDL can be found at http://www.rddl.org/
 In PEAR status of this package is: %{_status}.
 
 %description -l pl
-Ta klasa dostarcza ³atwego w u¿yciu interfejstu do wydobywania danych
+Ta klasa dostarcza ³atwego w u¿yciu interfejsu do wydobywania danych
 RDDL z dokumentów XML. Wiêcej informacji na temat RDDL mo¿na znale¼æ pod
 adresem http://www.rddl.org/
 
