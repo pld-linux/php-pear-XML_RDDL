@@ -23,7 +23,7 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 This class provides an easy-to-use interface to extract RDDL resources
 from XML documents. More on RDDL can be found at http://www.rddl.org/
 
-This class has in PEAR status: %{_status}.
+In PEAR status of this package is: %{_status}.
 
 %description -l pl
 Ta klasa dostarcza ³atwego w u¿yciu interfejstu do wydobywania danych
