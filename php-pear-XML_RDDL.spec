@@ -1,6 +1,6 @@
 %include	/usr/lib/rpm/macros.php
-%define         _class          XML
-%define         _subclass       RDDL
+%define		_class		XML
+%define		_subclass	RDDL
 %define		_status		beta
 %define		_pearname	%{_class}_%{_subclass}
 
