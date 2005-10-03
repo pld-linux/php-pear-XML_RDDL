@@ -8,7 +8,7 @@ Summary:	%{_pearname} - read RDDL (Resource Directory Description Language) docu
 Summary(pl):	%{_pearname} - odczyt dokumentów RDDL (Resource Directory Description Language)
 Name:		php-pear-%{_pearname}
 Version:	0.9
-Release:	2.1
+Release:	2.2
 License:	PHP 2.02
 Group:		Development/Languages/PHP
 Source0:	http://pear.php.net/get/%{_pearname}-%{version}.tgz
@@ -16,6 +16,7 @@ Source0:	http://pear.php.net/get/%{_pearname}-%{version}.tgz
 URL:		http://pear.php.net/package/XML_RDDL/
 BuildRequires:	rpm-php-pearprov >= 4.4.2-11
 Requires:	php-pear
+Requires:	php-pear-XML_Parser
 BuildArch:	noarch
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
