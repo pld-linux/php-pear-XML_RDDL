@@ -5,7 +5,7 @@
 %define		_pearname	%{_class}_%{_subclass}
 
 Summary:	%{_pearname} - read RDDL (Resource Directory Description Language) documents
-Summary(pl):	%{_pearname} - odczyt dokumentów RDDL (Resource Directory Description Language)
+Summary(pl.UTF-8):   %{_pearname} - odczyt dokumentÃ³w RDDL (Resource Directory Description Language)
 Name:		php-pear-%{_pearname}
 Version:	0.9
 Release:	3
@@ -28,9 +28,9 @@ from XML documents. More on RDDL can be found at http://www.rddl.org/
 
 In PEAR status of this package is: %{_status}.
 
-%description -l pl
-Ta klasa dostarcza ³atwego w u¿yciu interfejsu do wydobywania danych
-RDDL z dokumentów XML. Wiêcej informacji na temat RDDL mo¿na znale¼æ pod
+%description -l pl.UTF-8
+Ta klasa dostarcza Å‚atwego w uÅ¼yciu interfejsu do wydobywania danych
+RDDL z dokumentÃ³w XML. WiÄ™cej informacji na temat RDDL moÅ¼na znaleÅºÄ‡ pod
 adresem http://www.rddl.org/
 
 Ta klasa ma w PEAR status: %{_status}.
