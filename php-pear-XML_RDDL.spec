@@ -5,7 +5,7 @@
 %define		_pearname	%{_class}_%{_subclass}
 
 Summary:	%{_pearname} - read RDDL (Resource Directory Description Language) documents
-Summary(pl.UTF-8):   %{_pearname} - odczyt dokumentów RDDL (Resource Directory Description Language)
+Summary(pl.UTF-8):	%{_pearname} - odczyt dokumentów RDDL (Resource Directory Description Language)
 Name:		php-pear-%{_pearname}
 Version:	0.9
 Release:	3
